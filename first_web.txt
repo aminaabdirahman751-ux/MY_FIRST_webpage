@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<HTML>
+<head>
+
+<title> my first website</title>
+</head>
+<body>
+    <h1>welcome to amina,s website</h1>
+    <p> this is my first html website uploaded to GITHUB.</p>
+    </body>
+    </html>
